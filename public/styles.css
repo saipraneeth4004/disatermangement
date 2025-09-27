@@ -41,7 +41,7 @@ body {
     transform: scale(1.05);
   }
   
-  .awareness-img {
+  /* .awareness-img {
     border-radius: 10px;
     transition: transform 0.3s ease;
   }
@@ -57,4 +57,5 @@ body {
   
   .fade-in {
     animation: fadeIn 1s ease-in;
-  }
+
+  } */
